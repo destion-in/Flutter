@@ -7,7 +7,7 @@
 2. Focus on user experience, intuitive navigation, and a visually appealing layout.
 3. Consider including elements such as product images, descriptions, pricing, and user reviews for the Product Details Page. For the Summary Page, think about the order summary, pricing details, and checkout process.
 
-### 📋 **Next Steps: 3days**
+### 📋 **Dead Line: 3days**
 
 Once you've completed your task, please submit your work through [submission method/details](https://forms.fillout.com/t/4avBr15jBgus). We can't wait to see your innovative solutions and designs!
 
